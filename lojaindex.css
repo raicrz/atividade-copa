@@ -1,0 +1,31 @@
+body{
+
+height: 100%;
+margin: 0;
+    background-image:url(bola.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+display:flex;
+justify-content: space-between;
+list-style-type: none;
+align-items: center;
+padding: 16pix;
+
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.center{
+    text-align: center;
+
+
+}
